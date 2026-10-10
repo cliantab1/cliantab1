@@ -6,7 +6,7 @@
 
 **Medical student at Université de Tours · Technology enthusiast**
 
-<img src="./github-terminal.svg" alt="Célian Tabin — terminal profile with ASCII portrait, education, technical interests and contacts" width="100%" />
+<img src="./github-terminal.svg" alt="Célian Tabin — terminal profile with ASCII portrait, education, technical interests and contacts" width="100%" /> 
 
 </div>
 
