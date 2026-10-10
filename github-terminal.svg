@@ -13,62 +13,62 @@
 <text x="130" y="50" fill="#b8c4d5" font-size="15" font-weight="400">celian@desktop:~ / profile</text>
 <rect x="34" y="84" width="524" height="518" rx="9" fill="#0c1520" stroke="#263747"/>
 <text x="51" y="108" fill="#819bb0" font-size="13" font-weight="400">portrait.ascii</text>
-<g transform="translate(45 105)" fill="#8cb9e3" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.5" xml:space="preserve">
-<text x="0" y="0">                                                                                                    </text>
-<text x="0" y="9">                                                                                                    </text>
-<text x="0" y="18">                                                                                                    </text>
-<text x="0" y="27">                                         +#%+%@%=.. .                                               </text>
-<text x="0" y="36">                                     #%@@@@%@@@@@*@@%#*.:.                                          </text>
-<text x="0" y="45">                                  :@@@@@@@@@@*@@@@@ #=@@@@@@#.                                       </text>
-<text x="0" y="54">                                 .%@@@@@@@+- @@@@@@@%*-@@@@@=@@                                     </text>
-<text x="0" y="63">                                @@@@@@@% *@@@@@@@@@@@@@@@@@@@@@.*                                   </text>
-<text x="0" y="72">                              .@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  </text>
-<text x="0" y="81">                              #@###@%@%@@@@@@@@@@@@-#@@@@@@@@@@@#:+.                                </text>
-<text x="0" y="90">                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@%*-                              </text>
-<text x="0" y="99">                             @@@@@@@%#%@@@#@@@@@@@@%%%@@@@@%@@@@@%@@=+                              </text>
-<text x="0" y="108">                            .@@@@@@@@%%@@##@%@@%%@@%@%%%@%*@%-*@@@@%@.                              </text>
-<text x="0" y="117">                             @@@@@@@@@%@@%@+#@@%@@@@@%%%%@@@@%=@@@@@:                               </text>
-<text x="0" y="126">                             @@@@@@@+-+:......#@*#**##*#%%@%=-==%@@@@                               </text>
-<text x="0" y="135">                             @@@@@@=.=@@@@@@@....:-.. . ...  ...@@@@-                               </text>
-<text x="0" y="144">                             =@@@@+-@@.....:@@@@::-=%@@@@@@@@@@.-@@@                                </text>
-<text x="0" y="153">                              @@@@.+=.-@@@@@##::-::.---+*+-.  %@.#@@                                </text>
-<text x="0" y="162">                             -@@@#:=-*%@+@@. @#@#-:=@@@@@@@@@=.+.:@@                                </text>
-<text x="0" y="171">                            #*@@@=---=-:::=##%%@#=:*@+*#@@ @@@*--:@@                                </text>
-<text x="0" y="180">                           .%=.%@-======-+++*+-#*:.*=*#+-::-:.:=-:@#.                               </text>
-<text x="0" y="189">                            #:.#@@-=--=-----::-#*-.*#:-=++++=---::@.#                               </text>
-<text x="0" y="198">                             =@=.@#+=+--====-=#: .  +*-=--=-::==-%@ #                               </text>
-<text x="0" y="207">                             :*%%*@*++==++==-*+@*+=**=+=+====-++=+##                                </text>
-<text x="0" y="216">                              :...%++*=-=----+%%+#*%@#====-++#+*%#%+                                </text>
-<text x="0" y="225">                               ..:#==*#======:==.-:=:.---==+=*+++:=.                                </text>
-<text x="0" y="234">                                  .+-=+*+=+=-.-+=.:...:--==++=+:*..                                 </text>
-<text x="0" y="243">                                   ---++---*@@%##@%@@@%**++*+==                                     </text>
-<text x="0" y="252">                                   :@==*+==........ ...--=+++*:                                     </text>
-<text x="0" y="261">                                   .%@#=-:++++*****+++***=++*+                                      </text>
-<text x="0" y="270">                                   .+#@@%-::-:::::-===++-=#@+.                                      </text>
-<text x="0" y="279">                                   .#==%@@%-:=-:-::--=--*@%*.                                       </text>
-<text x="0" y="288">                                    *+==+#@@@%%%#*+*+*@@%++#:                                       </text>
-<text x="0" y="297">                                  @@##++++##%@@@@@@@@@%#*+%%                                        </text>
-<text x="0" y="306">                                @@@  %#++#*====++**+++***#%=                                        </text>
-<text x="0" y="315">                              @@@@@   @#++#*=---=--==*+##@ .:@                                      </text>
-<text x="0" y="324">                          %@@@@@@@@@ . %#*+**+:-*##%*@#%  :. @@                                     </text>
-<text x="0" y="333">                        @@@@@@@@@@@@  - %##+*%%%%*+##%*  :#  @@@:                                   </text>
-<text x="0" y="342">                    @@@@@@@@@@@@@@@@@ .. .%#+==++*##%    #: @@@@@@                                  </text>
-<text x="0" y="351">            @@@@@@@@@@@@@@@@@@@@@@@@@@ . ..@##*##%%..@@=.+  @@@@@@@@                                </text>
-<text x="0" y="360">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@#: @%####.::+%@:  @@@@@@@@@@@@:                            </text>
-<text x="0" y="369">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*   -:.@%%% :-= .:@ @@@@@@@@@@@@@@@@                          </text>
-<text x="0" y="378">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.:*-+ %## :+:=-=+ -@@@@@@@@@@@@@@@@@@@@:                     </text>
-<text x="0" y="387">  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.. +-.:@#:+###=: .@@@@@@@@@@@@@@@@@@@@@@@@@@%                </text>
-<text x="0" y="396"> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@# ....  :+-.-: + :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*           </text>
-<text x="0" y="405">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  .:.=*=*+--:-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       </text>
-<text x="0" y="414">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@- .-*==. ..=:: %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
-<text x="0" y="423">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ :-.:=-..:*.  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
-<text x="0" y="432">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -..:.....@. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
-<text x="0" y="441">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ : .::::..@  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
-<text x="0" y="450">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :::.:. @ :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
-<text x="0" y="459">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@. ..:... * @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
-<text x="0" y="468">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :++:. .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </text>
-<text x="0" y="477">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  .:-:  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </text>
-<text x="0" y="486">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-  </text>
+<g transform="translate(45 105)" fill="#8cb9e3" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.5">
+<text x="0" y="0" xml:space="preserve" style="white-space: pre;">                                                                                                    </text>
+<text x="0" y="9" xml:space="preserve" style="white-space: pre;">                                                                                                    </text>
+<text x="0" y="18" xml:space="preserve" style="white-space: pre;">                                                                                                    </text>
+<text x="0" y="27" xml:space="preserve" style="white-space: pre;">                                         +#%+%@%=.. .                                               </text>
+<text x="0" y="36" xml:space="preserve" style="white-space: pre;">                                     #%@@@@%@@@@@*@@%#*.:.                                          </text>
+<text x="0" y="45" xml:space="preserve" style="white-space: pre;">                                  :@@@@@@@@@@*@@@@@ #=@@@@@@#.                                       </text>
+<text x="0" y="54" xml:space="preserve" style="white-space: pre;">                                 .%@@@@@@@+- @@@@@@@%*-@@@@@=@@                                     </text>
+<text x="0" y="63" xml:space="preserve" style="white-space: pre;">                                @@@@@@@% *@@@@@@@@@@@@@@@@@@@@@.*                                   </text>
+<text x="0" y="72" xml:space="preserve" style="white-space: pre;">                              .@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  </text>
+<text x="0" y="81" xml:space="preserve" style="white-space: pre;">                              #@###@%@%@@@@@@@@@@@@-#@@@@@@@@@@@#:+.                                </text>
+<text x="0" y="90" xml:space="preserve" style="white-space: pre;">                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@%*-                              </text>
+<text x="0" y="99" xml:space="preserve" style="white-space: pre;">                             @@@@@@@%#%@@@#@@@@@@@@%%%@@@@@%@@@@@%@@=+                              </text>
+<text x="0" y="108" xml:space="preserve" style="white-space: pre;">                            .@@@@@@@@%%@@##@%@@%%@@%@%%%@%*@%-*@@@@%@.                              </text>
+<text x="0" y="117" xml:space="preserve" style="white-space: pre;">                             @@@@@@@@@%@@%@+#@@%@@@@@%%%%@@@@%=@@@@@:                               </text>
+<text x="0" y="126" xml:space="preserve" style="white-space: pre;">                             @@@@@@@+-+:......#@*#**##*#%%@%=-==%@@@@                               </text>
+<text x="0" y="135" xml:space="preserve" style="white-space: pre;">                             @@@@@@=.=@@@@@@@....:-.. . ...  ...@@@@-                               </text>
+<text x="0" y="144" xml:space="preserve" style="white-space: pre;">                             =@@@@+-@@.....:@@@@::-=%@@@@@@@@@@.-@@@                                </text>
+<text x="0" y="153" xml:space="preserve" style="white-space: pre;">                              @@@@.+=.-@@@@@##::-::.---+*+-.  %@.#@@                                </text>
+<text x="0" y="162" xml:space="preserve" style="white-space: pre;">                             -@@@#:=-*%@+@@. @#@#-:=@@@@@@@@@=.+.:@@                                </text>
+<text x="0" y="171" xml:space="preserve" style="white-space: pre;">                            #*@@@=---=-:::=##%%@#=:*@+*#@@ @@@*--:@@                                </text>
+<text x="0" y="180" xml:space="preserve" style="white-space: pre;">                           .%=.%@-======-+++*+-#*:.*=*#+-::-:.:=-:@#.                               </text>
+<text x="0" y="189" xml:space="preserve" style="white-space: pre;">                            #:.#@@-=--=-----::-#*-.*#:-=++++=---::@.#                               </text>
+<text x="0" y="198" xml:space="preserve" style="white-space: pre;">                             =@=.@#+=+--====-=#: .  +*-=--=-::==-%@ #                               </text>
+<text x="0" y="207" xml:space="preserve" style="white-space: pre;">                             :*%%*@*++==++==-*+@*+=**=+=+====-++=+##                                </text>
+<text x="0" y="216" xml:space="preserve" style="white-space: pre;">                              :...%++*=-=----+%%+#*%@#====-++#+*%#%+                                </text>
+<text x="0" y="225" xml:space="preserve" style="white-space: pre;">                               ..:#==*#======:==.-:=:.---==+=*+++:=.                                </text>
+<text x="0" y="234" xml:space="preserve" style="white-space: pre;">                                  .+-=+*+=+=-.-+=.:...:--==++=+:*..                                 </text>
+<text x="0" y="243" xml:space="preserve" style="white-space: pre;">                                   ---++---*@@%##@%@@@%**++*+==                                     </text>
+<text x="0" y="252" xml:space="preserve" style="white-space: pre;">                                   :@==*+==........ ...--=+++*:                                     </text>
+<text x="0" y="261" xml:space="preserve" style="white-space: pre;">                                   .%@#=-:++++*****+++***=++*+                                      </text>
+<text x="0" y="270" xml:space="preserve" style="white-space: pre;">                                   .+#@@%-::-:::::-===++-=#@+.                                      </text>
+<text x="0" y="279" xml:space="preserve" style="white-space: pre;">                                   .#==%@@%-:=-:-::--=--*@%*.                                       </text>
+<text x="0" y="288" xml:space="preserve" style="white-space: pre;">                                    *+==+#@@@%%%#*+*+*@@%++#:                                       </text>
+<text x="0" y="297" xml:space="preserve" style="white-space: pre;">                                  @@##++++##%@@@@@@@@@%#*+%%                                        </text>
+<text x="0" y="306" xml:space="preserve" style="white-space: pre;">                                @@@  %#++#*====++**+++***#%=                                        </text>
+<text x="0" y="315" xml:space="preserve" style="white-space: pre;">                              @@@@@   @#++#*=---=--==*+##@ .:@                                      </text>
+<text x="0" y="324" xml:space="preserve" style="white-space: pre;">                          %@@@@@@@@@ . %#*+**+:-*##%*@#%  :. @@                                     </text>
+<text x="0" y="333" xml:space="preserve" style="white-space: pre;">                        @@@@@@@@@@@@  - %##+*%%%%*+##%*  :#  @@@:                                   </text>
+<text x="0" y="342" xml:space="preserve" style="white-space: pre;">                    @@@@@@@@@@@@@@@@@ .. .%#+==++*##%    #: @@@@@@                                  </text>
+<text x="0" y="351" xml:space="preserve" style="white-space: pre;">            @@@@@@@@@@@@@@@@@@@@@@@@@@ . ..@##*##%%..@@=.+  @@@@@@@@                                </text>
+<text x="0" y="360" xml:space="preserve" style="white-space: pre;">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@#: @%####.::+%@:  @@@@@@@@@@@@:                            </text>
+<text x="0" y="369" xml:space="preserve" style="white-space: pre;">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*   -:.@%%% :-= .:@ @@@@@@@@@@@@@@@@                          </text>
+<text x="0" y="378" xml:space="preserve" style="white-space: pre;">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.:*-+ %## :+:=-=+ -@@@@@@@@@@@@@@@@@@@@:                     </text>
+<text x="0" y="387" xml:space="preserve" style="white-space: pre;">  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.. +-.:@#:+###=: .@@@@@@@@@@@@@@@@@@@@@@@@@@%                </text>
+<text x="0" y="396" xml:space="preserve" style="white-space: pre;"> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@# ....  :+-.-: + :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*           </text>
+<text x="0" y="405" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  .:.=*=*+--:-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       </text>
+<text x="0" y="414" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@- .-*==. ..=:: %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
+<text x="0" y="423" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ :-.:=-..:*.  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
+<text x="0" y="432" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -..:.....@. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
+<text x="0" y="441" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ : .::::..@  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
+<text x="0" y="450" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :::.:. @ :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
+<text x="0" y="459" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@. ..:... * @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
+<text x="0" y="468" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :++:. .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </text>
+<text x="0" y="477" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  .:-:  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </text>
+<text x="0" y="486" xml:space="preserve" style="white-space: pre;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-  </text>
 </g>
 <text x="625" y="104" fill="#d7dde7" font-size="13" font-weight="400">CÉLIAN TABIN  ────────────────────────────</text>
 <text x="625" y="141" fill="#e3aa75" font-size="13" font-weight="400">Handle</text><text x="772" y="141" fill="#79c0ff" font-size="13" font-weight="400">@cliantab1</text>
