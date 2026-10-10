@@ -10,13 +10,13 @@
 
 </div>
 
-[Open the terminal image at full size](./github-terminal.svg) (useful on mobile).
+
 
 ### About me
 
 I began medical studies through **PASS** and am now in **DFGSM3 (third year)** at **Université de Tours, France**. I have a strong interest in **microelectronics, computer hardware and software development** and enjoy learning how systems work, from human physiology to circuits and code.
 
-**Currently exploring:** Python, JavaScript, HTML/CSS, Git, VS Code, Node.js and AI-assisted development. I use Windows 11, Linux and Android.
+**Currently exploring:** Python, JavaScript, HTML/CSS, Git, VS Code, Node.js and Rust. I use Windows 11, Linux and Android.
 
 ### Find me
 
